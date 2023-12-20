@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\lib\usercss\css\styles-2.css" />
+    <None Include="wwwroot\lib\usercss\css\styles-3.css" />
+    <None Include="wwwroot\lib\usercss\css\styles-4.css" />
+    <None Include="wwwroot\lib\usercss\css\styles.css" />
+  </ItemGroup>
+
+</Project>
